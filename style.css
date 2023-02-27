@@ -17,6 +17,7 @@
 body {
   padding-top: 5rem;
   padding-left: 3rem;
+  padding-bottom: 3rem;
   color: var(--text-color);
   font-family: 'Work Sans', sans-serif;
   background: black;
@@ -131,21 +132,35 @@ main p {
   color: #FFFFFF;
 }
 
-.info .more {
+.info .more a{
   margin-top: 5rem;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  transition: all 0.4s ease;
+  border-bottom: 2px solid transparent;
+
+}
+
+.info .more .content {
   display: flex;
   align-items: center;
   gap: 5px;
 }
 
-.info .more a {
+.info .more .content p {
+  text-align: center;
   font-family: 'Spartan';
   font-weight: 700;
   font-size: 1.4rem;
-  text-decoration: none;
- 
+  
   color: #8257E5;
 }
+
+.info .more a:hover {
+  border-bottom: 2px solid #8257E5;
+}
+
 
 @media  screen and (max-width: 1024px) {
   .box {
@@ -157,6 +172,7 @@ main p {
 @media  screen and (max-width: 920px) {
   body {
     padding: 0;
+    padding-bottom: 10rem;
   }
   
   .box {

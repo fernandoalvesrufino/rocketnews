@@ -9,13 +9,13 @@ Uma página para captação de leads ou newsletter
 - GitHub
 - Figma
 
-Projeto
+## Projeto
 
 Construido página para captação de leads ou cadastro para uma newslater. Esse é um dos desafios disponíveis na plataforma da Rocketseat.
 
 Para acessar ao projeto finalizado, clique aqui.
 
-📝 Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="Imagem da página - desktop version" src="./images/" width="100%">
+  <img alt="Imagem da página - desktop version" src="./assets/print-page.png" width="100%">
 </p>
 
 

@@ -111,6 +111,9 @@ main p {
   height: 48px;
   text-align: center;
   margin-top: 1.7rem;
+  background: #8257E5;
+  border: 1px solid #8257E5;
+  color: #FFFFFF;
 }
 
 .info button {

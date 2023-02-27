@@ -1,5 +1,5 @@
 <h1 align="center"> Rocketnews </h1>
-<p align="center">Uma página para captação de leads ou newsletter</p>
+<p align="center">Uma página para captação de leads ou inscrição em newsletter</p>
 
 <br><br>
 
@@ -31,6 +31,7 @@
 Construido página para captação de leads ou cadastro para uma newslater. Esse é um dos desafios disponíveis na plataforma da Rocketseat.
 
 - Para acessar ao projeto finalizado, [clique aqui](https://fernandoalvesrufino.github.io/rocketnews/).
+
 
  
 ## :memo: Licença

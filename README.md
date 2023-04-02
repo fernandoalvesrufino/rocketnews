@@ -22,8 +22,7 @@
 - HTML
 - CSS
 - JavaScript
-- Git
-- GitHub
+- Git e GitHub
 - Figma
 
 ## Projeto

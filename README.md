@@ -1,4 +1,53 @@
 <h1 align="center"> Rocketnews </h1>
+<p align="center">A page for lead generation or newsletter subscription
+</p>
+
+<br><br>
+
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
+  <a href="#readme-in-portuguese">README in Portuguese</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
+  <img alt="print page- desktop version" src="./assets/print-page.png" width="100%">
+</p>
+
+
+## Technologies 
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+- Figma
+
+## Project
+
+Built page for lead generation or registration for a newsletter. This is one of the challenges available on the Rocketseat platform.
+
+- To access the completed project, [click here](https://fernandoalvesrufino.github.io/rocketnews/).
+
+
+ 
+## :memo: Licença
+
+This project is under the MIT license.
+
+---
+
+by Fernando Rufino
+
+`Challenge created by Rocketseat`
+
+## README in Portuguese
+
+<h1 align="center"> Rocketnews </h1>
 <p align="center">Uma página para captação de leads ou inscrição em newsletter</p>
 
 <br><br>

@@ -50,7 +50,7 @@ by Fernando Rufino
 <h1 align="center"> Rocketnews </h1>
 <p align="center">Uma página para captação de leads ou inscrição em newsletter</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
